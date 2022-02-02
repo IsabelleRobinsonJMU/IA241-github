@@ -19,3 +19,4 @@ this is a regional comment
 my_str = 'hello world'
 
 print(my_str.upper())
+git add --all
